@@ -1,9 +1,10 @@
 # 💫 About Me:
 I'm currently studying in s-vyasa<br>I'm looking to collaborate with software company<br>I'm currently learning Computer Science and Engineering<br>ask me about c , python.....
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_digesh_2007_)
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/ll_harshithr_ll?igsh=MTJxb2k0eGRlc2p1OQ==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshith843151@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ll_harshithr_ll?igsh=MTJxb2k0eGRlc2p1OQ==) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshith843151@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
